@@ -20,5 +20,7 @@ class Author
     self.posts << post
   end
 
+  def post_count
+  end
 
 end
