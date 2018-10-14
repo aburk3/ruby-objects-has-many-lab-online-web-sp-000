@@ -23,7 +23,7 @@ class Author
 
   def post_count
     @posts.length
-    bidning.pry
+    binding.pry
   end
 
 end
